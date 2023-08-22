@@ -1,1 +1,1 @@
-# ngx_app
+Cypress automated tests on ngx app
